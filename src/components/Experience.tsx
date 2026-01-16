@@ -5,7 +5,7 @@ const Experience = () => {
   const experiences = [
     {
       company: "Digistaff Inc.",
-      position: "Senior Full Stack Engineer",
+      position: "Senior Software Engineer",
       duration: "March 2025 - Present",
       location: "Toronto, Canada · Remote",
       type: "Full-time",
